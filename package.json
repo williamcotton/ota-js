@@ -1,0 +1,22 @@
+{
+  "name": "ota",
+  "version": "0.0.0",
+  "description": "ota-js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamcotton/ota-js.git"
+  },
+  "keywords": [
+    "ota"
+  ],
+  "author": "Willie Cotton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamcotton/ota-js/issues"
+  },
+  "homepage": "https://github.com/williamcotton/ota-js#readme"
+}
